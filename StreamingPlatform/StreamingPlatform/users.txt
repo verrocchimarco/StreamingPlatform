@@ -1,0 +1,2 @@
+customer:io:medesimo:meco@et_tibi.com:centomila:subscribed:NO_CARD_REGISTERED:NO_CARD_REGISTERED:endl:
+customer:Marco:Verrocchi:marco.verrocchi@hotmail.it:verry1994:subscribed:NO_CARD_REGISTERED:NO_CARD_REGISTERED:endl:

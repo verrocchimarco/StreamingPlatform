@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Generating Code...
+  Compiling...
+  userContainer.cpp
+  Generating Code...
+c:\users\mw_tv1\documents\visual studio 2015\projects\streamingplatform\streamingplatform\usercontainer.cpp(100): warning C4715: 'userContainer::getUser': not all control paths return a value
+c:\users\mw_tv1\documents\visual studio 2015\projects\streamingplatform\streamingplatform\usercontainer.cpp(163): warning C4715: 'userContainer::getUser': not all control paths return a value
+  StreamingPlatform.vcxproj -> C:\Users\mw_tv1\Documents\Visual Studio 2015\Projects\StreamingPlatform\Debug\StreamingPlatform.exe
+  StreamingPlatform.vcxproj -> C:\Users\mw_tv1\Documents\Visual Studio 2015\Projects\StreamingPlatform\Debug\StreamingPlatform.pdb (Partial PDB)
